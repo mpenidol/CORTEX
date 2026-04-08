@@ -49,14 +49,13 @@ semantic_chain = semantic_prompt | use_model.with_structured_output(SceneGraph)
 
 ASSET_SYSTEM_PROMPT = """
 You are a 3D Inventory Manager.
-Your job is to read a list of objects requested by a user and find the best available substitute in our Database (CSV).
+For each requested object you are given a short pre-filtered list of the most relevant candidates from our database, already ranked by similarity.
 
 RULES:
-1. Compare the 'requested_asset' with the name and description of the items in the Database.
-2. If there is a similar item that serves the same function (e.g., requested "HikingBackpack", but you have "School Bag"), make the match using the 'db_id'.
-3. If they ask for something completely different from what we have (e.g., requested "Car", but we only have furniture), return null/None in matched_db_id.
-4. You must output strictly valid json only.
-5. Do not include any conversational text. Do not include markdown tags like ```json.
+1. For each item, pick the best candidate from its list using 'db_id'. The first candidate is the most similar, but use your judgement.
+2. If none of the candidates are functionally similar to what was requested, return null/None in matched_db_id.
+3. You must output strictly valid json only.
+4. Do not include any conversational text. Do not include markdown tags like ```json.
 """
 
 asset_prompt = ChatPromptTemplate.from_messages([
