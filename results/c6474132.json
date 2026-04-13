@@ -1,0 +1,104 @@
+{
+  "objects_to_spawn": [
+    {
+      "instance_id": "window_1",
+      "prefab_id": "[wooden_window_01] 0079263d92a34e76aa68c90cf1c58a7e",
+      "parent_id": "world",
+      "position": {
+        "x": 5.455,
+        "y": 0.0,
+        "z": -3.316
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "monitor_1",
+      "prefab_id": "[computer_monitor_01] 011f2cd821e94596863378daa134cf0e",
+      "parent_id": "desk_1",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.55
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "desk_lamp_1",
+      "prefab_id": "[table_lamp_01] 02c4ee90724144fba9cb896602318f2d",
+      "parent_id": "desk_1",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.55
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "mug_1",
+      "prefab_id": "[white_mug_01] 005349b8ece7424984e8b1f224a8dfe3",
+      "parent_id": "desk_1",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.55
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "notebook_1",
+      "prefab_id": "[punk_sketchbook_01] 00642d469eaa4b8f9a86abd68e1cc769",
+      "parent_id": "desk_1",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.55
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    }
+  ]
+}

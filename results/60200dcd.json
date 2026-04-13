@@ -1,0 +1,104 @@
+{
+  "objects_to_spawn": [
+    {
+      "instance_id": "bookshelf_1",
+      "prefab_id": "01a259e3c4f34e56a33a4e076bba8458",
+      "parent_id": "world",
+      "position": {
+        "x": 6.933,
+        "y": 0.0,
+        "z": 3.371
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "lamp_1",
+      "prefab_id": "02c4ee90724144fba9cb896602318f2d",
+      "parent_id": "world",
+      "position": {
+        "x": 5.896,
+        "y": 0.0,
+        "z": 1.972
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "monitor_1",
+      "prefab_id": "011f2cd821e94596863378daa134cf0e",
+      "parent_id": "desk_1",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "coffee_cup_1",
+      "prefab_id": "005349b8ece7424984e8b1f224a8dfe3",
+      "parent_id": "desk_1",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "notebook_1",
+      "prefab_id": "00642d469eaa4b8f9a86abd68e1cc769",
+      "parent_id": "desk_1",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    }
+  ]
+}

@@ -2,23 +2,37 @@ from concurrent.futures import ThreadPoolExecutor
 from sentence_transformers import CrossEncoder
 from vectorstore import get_vectorstore
 
-vectorstore = get_vectorstore()
-
 reranker = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
+
+_current_db_size: int | None = None
+_vectorstore = None
+
+
+def init_retrieval(db_size: int | None = None):
+    """Initialize (or reload) the vectorstore for a given db_size."""
+    global _vectorstore, _current_db_size
+    if _vectorstore is None or _current_db_size != db_size:
+        _vectorstore = get_vectorstore(db_size)
+        _current_db_size = db_size
 
 
 def _search_single(query: str, k: int = 5) -> list[dict]:
-    results = vectorstore.similarity_search_with_score(query, k=k)
-    return [
-        {
-            "db_id": doc.metadata["db_id"],
-            "name": doc.metadata["name"],
-            "description": doc.page_content,
-            "size": doc.metadata["size"],
+    results = _vectorstore.similarity_search_with_score(query, k=k)
+    seen = set()
+    candidates = []
+    for doc, score in results:
+        db_id = doc.metadata["db_id"]
+        if db_id in seen:
+            continue
+        seen.add(db_id)
+        candidates.append({
+            "db_id":        db_id,
+            "name":         doc.metadata["name"],
+            "description":  doc.page_content,
+            "size":         doc.metadata["size"],
             "vector_score": score,
-        }
-        for doc, score in results
-    ]
+        })
+    return candidates
 
 
 def _rerank(query: str, candidates: list[dict], top_n: int = 3) -> list[dict]:
@@ -41,10 +55,7 @@ def _retrieve_for_object(
 def retrieve_all_objects(
     scene_objects, k: int = 5, top_n: int = 3
 ) -> dict[str, list[dict]]:
-    """For each object in the SceneGraph, retrieve and rerank top candidates.
-
-    Returns a dict mapping instance_id → list of ranked candidates.
-    """
+    """For each object in the SceneGraph, retrieve and rerank top candidates."""
     results = {}
     with ThreadPoolExecutor() as executor:
         futures = {

@@ -1,0 +1,184 @@
+{
+  "objects_to_spawn": [
+    {
+      "instance_id": "world",
+      "prefab_id": "[world_globe_01]",
+      "parent_id": "null",
+      "position": {
+        "x": -2.562,
+        "y": 0.0,
+        "z": -7.949
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "desk_1",
+      "prefab_id": "[white_desk_01]",
+      "parent_id": "world",
+      "position": {
+        "x": 3.917,
+        "y": 0.0,
+        "z": 0.389
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "chair_1",
+      "prefab_id": "[office_desk_and_chair_set_01]",
+      "parent_id": "world",
+      "position": {
+        "x": -0.898,
+        "y": 0.0,
+        "z": 6.526
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "bookcase_1",
+      "prefab_id": "[wooden_shelving_unit_01]",
+      "parent_id": "world",
+      "position": {
+        "x": 7.276,
+        "y": 0.0,
+        "z": 3.88
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "monitor_1",
+      "prefab_id": "[black_computer_monitor_01]",
+      "parent_id": "desk_1",
+      "position": {
+        "x": -3.408,
+        "y": 0.0,
+        "z": -0.408
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "lamp_1",
+      "prefab_id": "[blue_table_lamp_01]",
+      "parent_id": "desk_1",
+      "position": {
+        "x": 7.177,
+        "y": 0.0,
+        "z": -9.87
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "cup_1",
+      "prefab_id": "[white_mug_01]",
+      "parent_id": "desk_1",
+      "position": {
+        "x": -8.721,
+        "y": 0.0,
+        "z": 5.616
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "book_stack_1",
+      "prefab_id": "[stack_of_books_01]",
+      "parent_id": "bookcase_1",
+      "position": {
+        "x": 0.336,
+        "y": 0.0,
+        "z": 8.609
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "wall_clock_1",
+      "prefab_id": "[classroom_scene_01]",
+      "parent_id": "world",
+      "position": {
+        "x": -4.213,
+        "y": 0.0,
+        "z": 7.948
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    }
+  ]
+}

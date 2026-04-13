@@ -1,0 +1,144 @@
+{
+  "objects_to_spawn": [
+    {
+      "instance_id": "desk_1",
+      "prefab_id": "[white_desk_01]",
+      "parent_id": "world",
+      "position": {
+        "x": 1.097,
+        "y": 0.0,
+        "z": 0.762
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "chair_1",
+      "prefab_id": "[wooden_chair_01]",
+      "parent_id": "world",
+      "position": {
+        "x": -4.16,
+        "y": 0.0,
+        "z": 1.255
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "bookshelf_1",
+      "prefab_id": "[wooden_shelving_unit_01]",
+      "parent_id": "world",
+      "position": {
+        "x": 5.653,
+        "y": 0.0,
+        "z": -7.789
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "lamp_1",
+      "prefab_id": "[spherical_lamp_01]",
+      "parent_id": "desk_1",
+      "position": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "monitor_1",
+      "prefab_id": "[black_computer_monitor_01]",
+      "parent_id": "desk_1",
+      "position": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "mug_1",
+      "prefab_id": "[white_mug_01]",
+      "parent_id": "desk_1",
+      "position": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "book_1",
+      "prefab_id": "[open_book_01]",
+      "parent_id": "bookshelf_1",
+      "position": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    }
+  ]
+}

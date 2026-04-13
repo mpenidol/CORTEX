@@ -1,0 +1,84 @@
+{
+  "objects_to_spawn": [
+    {
+      "instance_id": "chair_1",
+      "prefab_id": "044f3af671454a619aeb2126fcbfede3",
+      "parent_id": "world",
+      "position": {
+        "x": 3.85,
+        "y": 0.0,
+        "z": 9.021
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "plant_1",
+      "prefab_id": "00184cc3c6674f2a8aa79e0e0d77ae31",
+      "parent_id": "world",
+      "position": {
+        "x": -0.024,
+        "y": 0.0,
+        "z": -8.704
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "monitor_1",
+      "prefab_id": "01ce620e70ff40708eb4a1b04f4a828e",
+      "parent_id": "desk_1",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "cup_1",
+      "prefab_id": "057ed726c32c4e0d8912d04343e7bf5a",
+      "parent_id": "desk_1",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    }
+  ]
+}

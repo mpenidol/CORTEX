@@ -1,0 +1,84 @@
+{
+  "objects_to_spawn": [
+    {
+      "instance_id": "desk_1",
+      "prefab_id": "005121da5ed340b4aedd168e33d56714",
+      "parent_id": "world",
+      "position": {
+        "x": -5.891,
+        "y": 0.0,
+        "z": -2.276
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "chair_1",
+      "prefab_id": "0060af6f4da24224a4770eea54685ecf",
+      "parent_id": "world",
+      "position": {
+        "x": -6.423,
+        "y": 0.0,
+        "z": 8.219
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "lamp_1",
+      "prefab_id": "0002e50309b44e409c96f440202d90b3",
+      "parent_id": "desk_1",
+      "position": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "mug_1",
+      "prefab_id": "005349b8ece7424984e8b1f224a8dfe3",
+      "parent_id": "desk_1",
+      "position": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    }
+  ]
+}

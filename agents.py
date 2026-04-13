@@ -41,21 +41,23 @@ semantic_prompt = ChatPromptTemplate.from_messages([
     ("human", "{input}"),
 ])
 
-semantic_chain = semantic_prompt | use_model.with_structured_output(SceneGraph)
+semantic_chain = semantic_prompt | use_model.with_structured_output(SceneGraph, include_raw=True)
 
 # --------------------------------
 
 # --- Asset Agent ---
 
 ASSET_SYSTEM_PROMPT = """
-You are a 3D Inventory Manager.
-For each requested object you are given a short pre-filtered list of the most relevant candidates from our database, already ranked by similarity.
+You are a 3D asset matcher. You receive a list of requested objects, each with pre-filtered database candidates.
 
-RULES:
-1. For each item, pick the best candidate from its list using 'db_id'. The first candidate is the most similar, but use your judgement.
-2. If none of the candidates are functionally similar to what was requested, return null/None in matched_db_id.
-3. You must output strictly valid json only.
-4. Do not include any conversational text. Do not include markdown tags like ```json.
+YOUR TASK:
+- For EVERY item in the list, produce exactly one mapping entry.
+- Use the EXACT instance_id shown after "ID:" as the instance_id field.
+- Use the EXACT named_asset shown after "Requested:" as the requested_asset field.
+- Choose the best matching db_id from the candidates list (marked with *). Use the exact db_id string shown in brackets [...].
+- If NO candidate fits functionally, set matched_db_id to null.
+
+You MUST produce one entry per item. Do not skip any item.
 """
 
 asset_prompt = ChatPromptTemplate.from_messages([
@@ -63,6 +65,6 @@ asset_prompt = ChatPromptTemplate.from_messages([
     ("human", "{input}"),
 ])
 
-asset_chain = asset_prompt | use_model.with_structured_output(AssetMappingReport)
+asset_chain = asset_prompt | use_model.with_structured_output(AssetMappingReport, include_raw=True)
 
 # --------------------------------

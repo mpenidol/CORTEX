@@ -1,0 +1,104 @@
+{
+  "objects_to_spawn": [
+    {
+      "instance_id": "chair_1",
+      "prefab_id": "[brown_armchair_01] 0060af6f4da24224a4770eea54685ecf",
+      "parent_id": "world",
+      "position": {
+        "x": 9.551,
+        "y": 0.0,
+        "z": 0.526
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "desk_lamp_1",
+      "prefab_id": "[table_lamp_01] 0002e50309b44e409c96f440202d90b3",
+      "parent_id": "desk_1",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.55
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "mug_1",
+      "prefab_id": "[white_mug_01] 005349b8ece7424984e8b1f224a8dfe3",
+      "parent_id": "desk_1",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.55
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "book_1",
+      "prefab_id": "[punk_sketchbook_01] 00642d469eaa4b8f9a86abd68e1cc769",
+      "parent_id": "bookshelf_1",
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.55
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "instance_id": "potted_plant_1",
+      "prefab_id": "[potted_plant_yellow_flowers_01] 00184cc3c6674f2a8aa79e0e0d77ae31",
+      "parent_id": "world",
+      "position": {
+        "x": 5.221,
+        "y": 0.0,
+        "z": -8.028
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    }
+  ]
+}
