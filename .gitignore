@@ -4,3 +4,4 @@ cortex_vectorstore*/
 *.pyc
 __pycache__/
 .env
+venv/

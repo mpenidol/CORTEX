@@ -10,6 +10,7 @@ langchain-core
 langchain-ollama
 langchain-chroma
 langchain-openai          # needed for --provider vllm
+langchain-huggingface     # needed for --provider vllm (local embeddings)
 
 # Vector store
 chromadb

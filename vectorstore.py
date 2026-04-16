@@ -11,10 +11,39 @@ from database import ASSET_DATABASE
 
 VECTORSTORE_BASE_DIR = os.path.join(os.path.dirname(__file__), "cortex_vectorstore")
 
+# Embeddings por defecto (Ollama local)
 embeddings = OllamaEmbeddings(
     model="nomic-embed-text",
     base_url="http://localhost:11434",
 )
+
+
+def init_embeddings(provider: str = "ollama", port: int | None = None,
+                    embed_model: str = "nomic-embed-text"):
+    """Switch the global embeddings object.
+
+    provider="ollama"  → OllamaEmbeddings via localhost:{port}  (default port 11434)
+    provider="vllm"    → HuggingFaceEmbeddings running fully local (no server needed)
+                         embed_model should be a HuggingFace model ID,
+                         default: nomic-ai/nomic-embed-text-v1.5
+    """
+    global embeddings
+    if provider == "vllm":
+        from langchain_huggingface import HuggingFaceEmbeddings
+        hf_model = embed_model if "/" in embed_model else "nomic-ai/nomic-embed-text-v1.5"
+        embeddings = HuggingFaceEmbeddings(
+            model_name=hf_model,
+            model_kwargs={"trust_remote_code": True},
+            encode_kwargs={"normalize_embeddings": True},
+        )
+        print(f"[Embeddings] HuggingFace local — {hf_model}")
+    else:
+        _port = port or 11434
+        embeddings = OllamaEmbeddings(
+            model=embed_model,
+            base_url=f"http://localhost:{_port}",
+        )
+        print(f"[Embeddings] Ollama — {embed_model}  port={_port}")
 
 
 def _store_dir(db_size: int) -> str:

@@ -14019,5 +14019,96 @@
     "k": 5,
     "n": 1,
     "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": null,
+    "k": 5,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": null,
+    "k": 5,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": null,
+    "k": 5,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": null,
+    "k": 5,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": null,
+    "k": 5,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": null,
+    "k": 5,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": null,
+    "k": 5,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": null,
+    "k": 5,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": null,
+    "k": 5,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 3,
+    "rep": 7
   }
 ]

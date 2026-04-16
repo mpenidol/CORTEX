@@ -149,9 +149,11 @@ def parse_args():
 def main():
     args = parse_args()
 
-    # Inicializar agentes con el proveedor/modelo/puerto indicados
+    # Inicializar agentes y embeddings con el proveedor/modelo/puerto indicados
     import agents
+    import vectorstore
     agents.init_agents(provider=args.provider, model=args.model, port=args.port)
+    vectorstore.init_embeddings(provider=args.provider, port=args.port)
 
     experiments = build_experiments()
     total = len(experiments) * REPETITIONS
