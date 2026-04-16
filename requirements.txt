@@ -1,0 +1,26 @@
+# CORTEX — Python dependencies
+# Install: pip install -r requirements.txt
+
+# API / server
+fastapi
+uvicorn
+
+# LangChain
+langchain-core
+langchain-ollama
+langchain-chroma
+langchain-openai          # needed for --provider vllm
+
+# Vector store
+chromadb
+
+# Embeddings & reranker
+sentence-transformers
+
+# Schemas
+pydantic
+
+# Data / plots (only needed for batch + plot_results)
+pandas
+numpy
+matplotlib
