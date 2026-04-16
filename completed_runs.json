@@ -14110,5 +14110,26 @@
     "k": 5,
     "n": 3,
     "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": null,
+    "k": 5,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": null,
+    "k": 5,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": null,
+    "k": 5,
+    "n": 3,
+    "rep": 6
   }
 ]

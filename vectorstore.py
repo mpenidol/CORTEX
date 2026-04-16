@@ -30,7 +30,7 @@ def init_embeddings(provider: str = "ollama", port: int | None = None,
     global embeddings
     if provider == "vllm":
         from langchain_huggingface import HuggingFaceEmbeddings
-        hf_model = embed_model if "/" in embed_model else "nomic-ai/nomic-embed-text-v1.5"
+        hf_model = embed_model if "/" in embed_model else "BAAI/bge-m3"
         embeddings = HuggingFaceEmbeddings(
             model_name=hf_model,
             model_kwargs={"trust_remote_code": True},

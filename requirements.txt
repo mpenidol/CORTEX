@@ -11,6 +11,7 @@ langchain-ollama
 langchain-chroma
 langchain-openai          # needed for --provider vllm
 langchain-huggingface     # needed for --provider vllm (local embeddings)
+einops                    # required by nomic-embed-text-v1.5
 
 # Vector store
 chromadb
