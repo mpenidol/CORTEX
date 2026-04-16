@@ -1,5 +1,4 @@
 results/
-batch_experiments.py
 plot_results.py
 cortex_vectorstore*/
 *.pyc

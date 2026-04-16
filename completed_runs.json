@@ -1,0 +1,14023 @@
+[
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 10,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 10,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 10,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 10,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 10,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 10,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 10,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 20,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 20,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 20,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 20,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 20,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 20,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 20,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 20,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 20,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 20,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 20,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 20,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 20,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 20,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 20,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 20,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 20,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 20,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 20,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 20,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 20,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 20,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 20,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 20,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 20,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 20,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 20,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 20,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 20,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 20,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 20,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 20,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 20,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 20,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 20,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 20,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 20,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 20,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 20,
+    "rep": 10
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 20,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 20,
+    "rep": 2
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 20,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 20,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 20,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 20,
+    "rep": 6
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 20,
+    "rep": 7
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 20,
+    "rep": 8
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 20,
+    "rep": 9
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 20,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 10,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 20,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 20,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 20,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 20,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 20,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 20,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 20,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 20,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 20,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 5,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 10,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 20,
+    "n": 10,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 10,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 20,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 20,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 20,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 20,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 20,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 20,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 20,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 20,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 20,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 1000,
+    "k": 50,
+    "n": 20,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 5,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 10,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 20,
+    "n": 10,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 10,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 20,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 20,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 20,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 20,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 20,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 20,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 20,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 20,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 2000,
+    "k": 50,
+    "n": 20,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 10,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 20,
+    "n": 10,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 10,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 20,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 20,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 20,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 20,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 20,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 20,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 20,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 20,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3000,
+    "k": 50,
+    "n": 20,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 10,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 20,
+    "n": 10,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 10,
+    "rep": 10
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 20,
+    "rep": 1
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 20,
+    "rep": 2
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 20,
+    "rep": 3
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 20,
+    "rep": 4
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 20,
+    "rep": 5
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 20,
+    "rep": 6
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 20,
+    "rep": 7
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 20,
+    "rep": 8
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 20,
+    "rep": 9
+  },
+  {
+    "sweep": "k_sweep",
+    "db": 3763,
+    "k": 50,
+    "n": 20,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 5,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 10,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 20,
+    "n": 10,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 10,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 100,
+    "k": 50,
+    "n": 20,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 5,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 10,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 20,
+    "n": 10,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 1,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 3,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 5
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 6
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 7
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 8
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 9
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 5,
+    "rep": 10
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 10,
+    "rep": 1
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 10,
+    "rep": 2
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 10,
+    "rep": 3
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 10,
+    "rep": 4
+  },
+  {
+    "sweep": "n_sweep",
+    "db": 500,
+    "k": 50,
+    "n": 10,
+    "rep": 5
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3000,
+    "k": 5,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 1,
+    "rep": 1
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 1,
+    "rep": 3
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 1,
+    "rep": 4
+  },
+  {
+    "sweep": "db_sweep",
+    "db": 3763,
+    "k": 5,
+    "n": 1,
+    "rep": 5
+  }
+]

@@ -3,7 +3,7 @@ import time
 
 from fastapi import FastAPI
 
-from agents import asset_chain, semantic_chain
+import agents
 from database import ASSET_DATABASE
 from layout import calculate_unity_layout
 from logger import SessionLog, extract_tokens, save_session
@@ -54,7 +54,7 @@ def generate_scene(message: UnityMessage):
     # 1. Semantic Agent
     print("1. Semantic Agent is running...")
     t0 = time.time()
-    semantic_raw = semantic_chain.invoke({"input": message.content})
+    semantic_raw = agents.semantic_chain.invoke({"input": message.content})
     log.semantic_time_s = round(time.time() - t0, 3)
     log.semantic_input_tokens, log.semantic_output_tokens = extract_tokens(semantic_raw["raw"])
     semantic_result = semantic_raw["parsed"]
@@ -72,7 +72,7 @@ def generate_scene(message: UnityMessage):
     print("3. Asset Agent is running...")
     asset_prompt = _format_candidates_prompt(semantic_result.objects, candidates_per_object)
     t0 = time.time()
-    asset_raw = asset_chain.invoke({"input": asset_prompt})
+    asset_raw = agents.asset_chain.invoke({"input": asset_prompt})
     log.asset_time_s = round(time.time() - t0, 3)
     log.asset_input_tokens, log.asset_output_tokens = extract_tokens(asset_raw["raw"])
     asset_result = asset_raw["parsed"]

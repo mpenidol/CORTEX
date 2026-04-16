@@ -7,8 +7,6 @@ from schemas import SceneGraph, AssetMappingReport
 ollama_model = ChatOllama(
     model="gpt-oss:20b",
     base_url="http://localhost:11434",
-    # model="qwen2.5:72b",
-    # base_url="http://192.168.0.229:11434",
 )
 
 use_model = ollama_model
@@ -68,3 +66,24 @@ asset_prompt = ChatPromptTemplate.from_messages([
 asset_chain = asset_prompt | use_model.with_structured_output(AssetMappingReport, include_raw=True)
 
 # --------------------------------
+
+
+def init_agents(provider: str = "ollama", model: str = "gpt-oss:20b", port: int | None = None):
+    """Rebuild semantic_chain and asset_chain for the given provider/model/port."""
+    global semantic_chain, asset_chain
+
+    if provider == "vllm":
+        from langchain_openai import ChatOpenAI
+        _port = port or 8000
+        llm = ChatOpenAI(
+            model=model,
+            base_url=f"http://localhost:{_port}/v1",
+            api_key="EMPTY",
+        )
+    else:  # ollama (default)
+        _port = port or 11434
+        llm = ChatOllama(model=model, base_url=f"http://localhost:{_port}")
+
+    semantic_chain = semantic_prompt | llm.with_structured_output(SceneGraph, include_raw=True)
+    asset_chain    = asset_prompt    | llm.with_structured_output(AssetMappingReport, include_raw=True)
+    print(f"[Agents] Initialized — provider={provider}  model={model}  port={_port}")
