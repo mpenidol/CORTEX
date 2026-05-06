@@ -10,6 +10,7 @@ ollama_model = ChatOllama(
 )
 
 use_model = ollama_model
+_llm = use_model   # referencia al LLM activo; actualizada por init_agents()
 
 # --------------------------------
 
@@ -70,7 +71,7 @@ asset_chain = asset_prompt | use_model.with_structured_output(AssetMappingReport
 
 def init_agents(provider: str = "ollama", model: str = "gpt-oss:20b", port: int | None = None):
     """Rebuild semantic_chain and asset_chain for the given provider/model/port."""
-    global semantic_chain, asset_chain
+    global semantic_chain, asset_chain, _llm
 
     if provider == "vllm":
         from langchain_openai import ChatOpenAI
@@ -84,6 +85,7 @@ def init_agents(provider: str = "ollama", model: str = "gpt-oss:20b", port: int 
         _port = port or 11434
         llm = ChatOllama(model=model, base_url=f"http://localhost:{_port}")
 
+    _llm           = llm
     semantic_chain = semantic_prompt | llm.with_structured_output(SceneGraph, include_raw=True)
     asset_chain    = asset_prompt    | llm.with_structured_output(AssetMappingReport, include_raw=True)
     print(f"[Agents] Initialized — provider={provider}  model={model}  port={_port}")

@@ -17,6 +17,7 @@ CSV_PATH = os.path.join(RESULTS_DIR, "sessions.csv")
 CSV_FIELDS = [
     "session_id",
     "timestamp",
+    "arch",
     "sweep_type",
     "repetition",
     "prompt",
@@ -52,6 +53,7 @@ class SessionLog:
     retrieval_top_n: int
     sweep_type: str = "manual"
     repetition: int = 1
+    arch: str = "rag_rerank"
 
     session_id: str = field(default_factory=lambda: str(uuid.uuid4())[:8])
     timestamp: str = field(default_factory=lambda: datetime.now().isoformat(timespec="seconds"))
@@ -88,6 +90,13 @@ def extract_tokens(raw_response) -> tuple[int, int]:
     return int(input_t), int(output_t)
 
 
+def _csv_path_for_arch(arch: str) -> str:
+    """Cada arquitectura escribe en su propio CSV para evitar conflictos de esquema."""
+    if arch == "rag_rerank":
+        return CSV_PATH   # compatibilidad con el CSV original
+    return os.path.join(RESULTS_DIR, f"sessions_{arch}.csv")
+
+
 def save_session(log: SessionLog, output_payload: dict):
     os.makedirs(RESULTS_DIR, exist_ok=True)
 
@@ -97,8 +106,9 @@ def save_session(log: SessionLog, output_payload: dict):
         json.dump(output_payload, f, indent=2)
     log.output_json_file = json_filename
 
-    write_header = not os.path.exists(CSV_PATH)
-    with open(CSV_PATH, "a", newline="", encoding="utf-8") as f:
+    csv_path     = _csv_path_for_arch(log.arch)
+    write_header = not os.path.exists(csv_path)
+    with open(csv_path, "a", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=CSV_FIELDS)
         if write_header:
             writer.writeheader()

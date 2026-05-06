@@ -26,3 +26,6 @@ pydantic
 pandas
 numpy
 matplotlib
+
+# BM25 (needed for --arch bm25 and --arch bm25_rag)
+rank-bm25
