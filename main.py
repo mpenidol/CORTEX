@@ -132,7 +132,24 @@ def generate_scene(message: UnityMessage):
 
     log.objects_spawned = len(final_result.get("objects_to_spawn", []))
     log.end_total()
-    save_session(log, final_result)
+
+    # Enriquecer mappings con el nombre legible del asset (para juez LLM)
+    _db_name = {a["db_id"]: a["name"] for a in ASSET_DATABASE}
+    mappings_enriched = []
+    for m in asset_result.mappings:
+        entry = m.model_dump()
+        if m.matched_db_id:
+            entry["matched_name"] = _db_name.get(m.matched_db_id, "unknown")
+        mappings_enriched.append(entry)
+
+    full_payload = {
+        "prompt":        log.prompt,
+        "semantic":      semantic_result.model_dump(),
+        "retrieval":     candidates_per_object,
+        "asset_mapping": mappings_enriched,
+        "layout":        final_result,
+    }
+    save_session(log, full_payload)
 
     print("Final result generated and sent to Unity!")
     return final_result
