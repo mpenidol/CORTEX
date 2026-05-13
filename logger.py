@@ -83,10 +83,24 @@ class SessionLog:
 
 
 def extract_tokens(raw_response) -> tuple[int, int]:
-    """Extract input/output tokens from a LangChain raw AIMessage (Ollama format)."""
+    """Extract input/output tokens from a LangChain raw AIMessage.
+
+    Soporta dos formatos:
+      - Ollama:  prompt_eval_count / eval_count
+      - vLLM / OpenAI: response_metadata.token_usage.prompt_tokens / completion_tokens
+    """
     meta = getattr(raw_response, "response_metadata", {}) or {}
+
+    # Ollama
     input_t  = meta.get("prompt_eval_count") or 0
     output_t = meta.get("eval_count")        or 0
+
+    # vLLM / OpenAI (ChatOpenAI de LangChain)
+    if not input_t:
+        usage    = meta.get("token_usage") or {}
+        input_t  = usage.get("prompt_tokens")     or 0
+        output_t = usage.get("completion_tokens") or 0
+
     return int(input_t), int(output_t)
 
 
