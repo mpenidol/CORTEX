@@ -89,8 +89,8 @@ def append_completed_json(arch: str, sweep, db, k, n, rep):
 
 def load_completed_csv(arch: str) -> set:
     import csv
-    from logger import RESULTS_DIR
-    csv_path = os.path.join(RESULTS_DIR, f"sessions_{arch}.csv")
+    from logger import _csv_path_for_arch
+    csv_path = _csv_path_for_arch(arch)
     completed = set()
     if not os.path.exists(csv_path):
         return completed
